@@ -1,2 +1,2 @@
 #!/bin/bash
-greq -i "root" /etc/passwd
+sort | uniq -u
